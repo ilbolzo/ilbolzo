@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Edoardo2409
-- 👀 I’m interested in Technology and Nature
-- 🌱 I’m currently learning Computer Sciense Engeneering at Politecnico di Milano
-- 💞️ I’m looking to collaborate on a project that involevs my passions
-- 📫 How to reach me: edoardo.bolzoni@vivaldi.net
+# 👋 Hi, I'm Edoardo
 
-<!---
-Edoardo2409/Edoardo2409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a student of Artificial Intelligence with interests in data science, machine learning, and sustainability.  
+🌍 Passionate about technology that creates a positive impact.
+
+📫 Reach me at: edoardo.bolzoni@vivaldi.net  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/edoardobolzoni)
